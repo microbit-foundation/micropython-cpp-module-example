@@ -17,3 +17,5 @@ Build MicroPython with the C++ module included:
 ```
 make -C micropython-microbit-v2/src USER_C_MODULES=../../..
 ```
+
+Hex file: `micropython-microbit-v2/src/build/MICROBIT.hex`
